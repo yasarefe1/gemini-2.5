@@ -1,0 +1,5 @@
+{
+  "name": "Animated Waitlist",
+  "description": "A visually stunning waitlist page with an animated shader-like background, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
